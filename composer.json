@@ -1,0 +1,20 @@
+{
+    "name": "sgb/cacraig",
+    "description": "api-assessment",
+    "authors": [
+        {
+            "name": "Colin Craig",
+            "email": "cacraig@ncsu.edu"
+        }
+    ],
+    "require": {
+    	"phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "api\\": "src/",
+            "mmmr\\":"lib/mmmr",
+            "utils\\":"src/utils"
+        }
+    }
+}
