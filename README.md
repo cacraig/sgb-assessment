@@ -1,4 +1,4 @@
-Stanely Gibbons API assessment.  
+Stanley Gibbons API assessment.  
 Author: Colin Craig
   
 Setup:
@@ -11,7 +11,7 @@ About:
 - This IS a technical assessment, so why not do something cool?!
 
 To use the framework:  
-  
+```php
 // run your autoloader...  
 // Autoload();  
   
@@ -47,3 +47,4 @@ $api->dispatch();
 // API_ROOT/testroute3 [POST]  
 // API_ROOT/testroute4 [POST]  
 // Anything else will return a HTTP 404 error.  
+```
