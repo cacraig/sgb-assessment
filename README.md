@@ -3,7 +3,7 @@ Author: Colin Craig
   
 Setup:
 - vagrant up
-- curl -H "Content-Type: application/json" -X POST -d '{"numbers":[5,6,8,7,5]}' http://192.168.33.12/mmmr
+- TEST IT: curl -H "Content-Type: application/json" -X POST -d '{"numbers":[5,6,8,7,5]}' http://192.168.33.12/mmmr
 
 About:
 - I purposely refrained from using External libraries.
