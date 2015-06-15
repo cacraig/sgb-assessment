@@ -168,6 +168,8 @@ class Response
             header('Content-Length: '.$length);
         }
 
+        header('Content-Type: application/json');
+
         return $this;
     }
 
