@@ -7,7 +7,7 @@ Setup:
 
 About:
 - I purposely refrained from using External libraries.
-- Since I have experiance building API frameworks, I took the liberty of building a small framework for this application.
+- Since I have experience building API frameworks, I took the liberty of building a small framework for this application.
 - This IS a technical assessment, so why not do something cool?!
 
 To use the framework:  
